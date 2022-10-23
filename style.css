@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 18px;
+	background-image: url('images/background.jpg');
+	background-repeat: repeat;
+	background-color: #EFF5FB;
+    margin: 5% 10%;
+    line-height: 1.5;
+	max-width: 1500px;
+}
+h1 {
+    font-family: Calibri, Verdana, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: midnightblue;
+}
+h2 {
+    font-size: 32px;
+    color: midnightblue;
+}
+h3 {
+    font-size: 24px;
+    color: #646066;
+}
+nav {
+	padding-bottom: 2%;
+}
+nav li {
+		list-style-type: none;
+		display: inline;
+		font-weight: 700;
+		background-color: #FCFBF4;
+		padding: 10px;
+		margin-bottom: 2px;
+		}
+nav li a:link {
+		text-decoration: none;
+		color: #141314;
+			}
+#artifact1, #artifact2 {
+	background-color: #FBECD8;
+	padding: 1px 10px;
+	margin-bottom: 30px;
+}
+#artifact1 img {
+		width: 100px;
+		height: auto;
+		float: right;
+		margin-top: 25px;
+		margin-right: 10px;
+}
+#artifact2 img {
+	width: 130px;
+	height: auto;
+	float: right;
+	margin-top: 35px;
+}
+#albums {
+	max-width: 1200px;
+}
+#albums img {
+	width: 200px;
+	height: auto;
+	float: right;
+	margin-right: 30px;
+	margin-left: 10px;
+	margin-top: 30px;
+}
+#wrapper {
+	max-width: 1200px;
+}
+#wrapper object {
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
