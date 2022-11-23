@@ -44,6 +44,9 @@ nav li a:link {
 .instructor {
 		font-style: italic;
 }
+#artifact* {
+	max-width: 800px;
+}
 #artifact1, #artifact2, .assignments1 {
 	background-color: #dddddd;
 	padding: 1px 10px;
