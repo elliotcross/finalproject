@@ -48,9 +48,11 @@ nav li a:link {
 	max-width: 1000px;
 }
 #artifact1, #artifact2, #artifact3, #artifact4, #artifact5, .assignments1 {
-	background-color: #dddddd;
 	padding: 1px 10px;
 	margin-bottom: 30px;
+}
+#artifact1, #artifact3, #artifact5, .assignments1 {
+	background-color: #dddddd;
 }
 #artifact1 img {
 		width: 100px;
