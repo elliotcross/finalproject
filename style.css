@@ -54,14 +54,14 @@ nav li a:link {
 #artifact1, #artifact3, #artifact5, .assignments1 {
 	background-color: #dddddd;
 }
-#artifact1 img {
+#artifact1 img, #artifact3 img {
 		width: 100px;
 		height: auto;
 		float: right;
 		margin-top: 25px;
 		margin-right: 10px;
 }
-#artifact2 img, #artifact3 img, #artifact4 img, #artifact5 img {
+#artifact2 img, #artifact4 img, #artifact5 img {
 	width: 130px;
 	height: auto;
 	float: right;
