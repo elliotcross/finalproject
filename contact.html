@@ -28,8 +28,8 @@
 		</header>
         
           <p>If you have comments or questions, please fill out the form below.</p>
-        <form action="thankyou.html" method="get" name="myForm">
-		<p id="errormsgs"></p>
+        <form name="myForm" action="thankyou.html"  method="get" onSubmit="return validateForm();">
+	  <div id="errormsgs"></div>
 			<fieldset>
 				<p>
 				<label for="name">Enter your name:</label>
