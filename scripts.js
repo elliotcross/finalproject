@@ -15,7 +15,7 @@ function validateForm()
 	
 	//validate Name field is not empty, has no more than 100 characters
 	if (myForm.name.value.length > 100 || myForm.name.value===null || myForm.name.value==="")
-			errormsgs += "<p>Name is required and must be no more than 100 characters. No numbers or special characters allowed.</p>";
+			errormsgs += "<p>Name is required and must be no more than 100 characters.</p>";
 				else
 					validName = true;
 				
