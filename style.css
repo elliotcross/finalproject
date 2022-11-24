@@ -39,15 +39,15 @@ nav li {
 		}
 nav li a:link {
 		text-decoration: none;
-		color: #141314;
+		color: midnightblue;
 			}
 .instructor {
 		font-style: italic;
 }
 #artifact1, #artifact2, #artifact3, #artifact4, #artifact5  {
-	max-width: 1200px;
+	max-width: 1000px;
 }
-#artifact1, #artifact2, .assignments1 {
+#artifact1, #artifact2, #artifact3, #artifact4, #artifact5, .assignments1 {
 	background-color: #dddddd;
 	padding: 1px 10px;
 	margin-bottom: 30px;
@@ -59,7 +59,7 @@ nav li a:link {
 		margin-top: 25px;
 		margin-right: 10px;
 }
-#artifact2 img {
+#artifact2, #artifact3, #artifact4, #artifact5 img {
 	width: 130px;
 	height: auto;
 	float: right;
