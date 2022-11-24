@@ -90,6 +90,9 @@ footer {
 form {
 	max-width: 600px;
 }
+#errormsgs {
+	color: red;
+}
 #wrapper {
 	max-width: 1200px;
 }
