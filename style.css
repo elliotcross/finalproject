@@ -54,6 +54,9 @@ nav li a:link {
 #artifact1, #artifact3, #artifact5, .assignments1 {
 	background-color: #dddddd;
 }
+.assignments1, .assignments2 {
+	max-width: 1000px;
+}
 #artifact1 img, #artifact3 img {
 		width: 100px;
 		height: auto;
