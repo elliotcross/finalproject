@@ -70,6 +70,12 @@ nav li a:link {
 	float: right;
 	margin-top: 35px;
 }
+footer {
+	font-size: 10px;
+	font-style: italic;
+	align-items: right;
+	justify-content: right;
+}
 #albums {
 	max-width: 1200px;
 }
