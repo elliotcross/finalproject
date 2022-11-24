@@ -21,7 +21,7 @@ function validateForm()
 					validName = true;
 				
 	//validate Email field has a valid formatted email address
-	if (atpos< 1 || dotpos<atpos+2 || dotpos+2>=userEmail.length)
+	if (atpos< 1 || dotpos<atpos+2 || dotpos+2>=userEmail.length || userEmail.value===null || userEmail.value==="")
 			errormsgs += "<p>Invalid email</p>";
 				else
 					validEmail = true;
