@@ -72,7 +72,6 @@ nav li a:link {
 }
 footer {
 	font-size: 10px;
-	font-style: italic;
 	justify-content: right;
 }
 #albums {
@@ -88,6 +87,9 @@ footer {
 }
 form {
 	max-width: 600px;
+}
+textarea {
+	vertical-align: top;
 }
 #errormsgs {
 	color: red;
