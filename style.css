@@ -95,8 +95,6 @@ textarea {
 #errormsgs {
 	color: red;
 	font-weight: 800;
-	border: 3px;
-	border-color: red;
 }
 #wrapper {
 	max-width: 1200px;
