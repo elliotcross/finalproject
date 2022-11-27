@@ -76,10 +76,21 @@ footer {
 	justify-content: right;
 }
 #videotext {
-
+	margin-top: -80%;
+}
+#videotext h2 {
+	font-size 18;
+	color: white;
+	text-align: right;
+}
+#albums li {
+	font-weight: 700;
 }
 #albums {
 	max-width: 1200px;
+}
+#bands dt {
+	font-weight: 700;
 }
 #albums img {
 	width: 200px;
