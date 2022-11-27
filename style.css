@@ -75,6 +75,10 @@ footer {
 	font-size: 12px;
 	justify-content: right;
 }
+.validicon {
+	height: 24px;
+	width: auto;
+}
 #albums {
 	max-width: 1200px;
 }
