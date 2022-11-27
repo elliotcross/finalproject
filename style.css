@@ -76,6 +76,7 @@ footer {
 	justify-content: right;
 }
 #videotext {
+	position: relative;
 	margin-top: -80%;
 }
 #videotext h2 {
