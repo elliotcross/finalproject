@@ -81,6 +81,12 @@ footer {
 #albums {
 	max-width: 1200px;
 }
+#albums li {
+	font-weight: 700;
+}
+#bands dt {
+	font-weight: 700;
+}
 #albums img {
 	width: 200px;
 	height: auto;
