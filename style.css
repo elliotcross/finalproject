@@ -63,6 +63,7 @@ nav li a:link {
 		float: right;
 		margin-top: 25px;
 		margin-right: 10px;
+		margin-left: 20px;
 }
 #artifact2 img, #artifact4 img, #artifact5 img {
 	width: 130px;
