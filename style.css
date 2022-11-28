@@ -109,9 +109,7 @@ textarea {
 #wrapper {
 	max-width: 1200px;
 }
-#wrapper video {
-	width: 429px;
-	height: 762px;
+#wrapper object {
 	float: left;
 	margin-top: 20px;
 	margin-right: 20px;
