@@ -81,6 +81,7 @@ footer {
 }
 #albums {
 	max-width: 1200px;
+	margin-top: 10px;
 }
 #albums li {
 	font-weight: 700;
