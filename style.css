@@ -99,6 +99,9 @@ footer {
 #albums a {
 	margin-left: 2em;
 }
+#albums a:active {
+  background-color: #c8c8c8;
+}
 form {
 	max-width: 600px;
 }
