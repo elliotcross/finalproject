@@ -47,7 +47,19 @@ nav li a:link {
 #artifact1, #artifact2, #artifact3, #artifact4, #artifact5  {
 	max-width: 1000px;
 }
-#artifact1, #artifact2, #artifact3, #artifact4, #artifact5  a:active {
+#artifact1 a:active {
+  background-color: #c8c8c8;
+}
+#artifact2 a:active {
+  background-color: #c8c8c8;
+}
+#artifact3 a:active {
+  background-color: #c8c8c8;
+}
+#artifact4 a:active {
+  background-color: #c8c8c8;
+}
+#artifact5 a:active {
   background-color: #c8c8c8;
 }
 #artifact1, #artifact2, #artifact3, #artifact4, #artifact5, .assignments1 {
