@@ -60,6 +60,12 @@ nav li a:link {
 .assignments1, .assignments2 {
 	max-width: 1000px;
 }
+.assignments1 a:active {
+  background-color: #c8c8c8;
+}
+.assignments2 a:active {
+  background-color: #c8c8c8;
+}
 #artifact1 img, #artifact3 img {
 		width: 100px;
 		height: auto;
