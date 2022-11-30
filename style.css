@@ -103,6 +103,9 @@ footer {
 #albums a:active {
   background-color: #c8c8c8;
 }
+.courses a:active {
+  background-color: #c8c8c8;
+}
 form {
 	max-width: 600px;
 }
