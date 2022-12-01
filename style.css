@@ -41,6 +41,11 @@ nav li a:link {
 		text-decoration: none;
 		color: midnightblue;
 			}
+#gifwrapper {
+	max-width: 1200px;
+	display: flex;
+	justify-content: center;
+}
 .instructor {
 		font-style: italic;
 }
